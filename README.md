@@ -40,10 +40,6 @@ tic-tac-toe/
    ```
 3. Open `index1.html` in your browser (just double-click the file, or right-click → Open with → your browser)
 
-## 📸 Screenshot
-
-*(Add a screenshot of your game here once it's running — drag and drop an image into this README on GitHub, or add `![Tic Tac Toe Screenshot](screenshot.png)`)*
-
 ## 🔮 Future Improvements
 
 - Add a single-player mode with AI opponent
